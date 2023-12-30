@@ -1,0 +1,16 @@
+Problem Statement:
+
+Data analysis on millions of listings conferred through Airbnb is one of the most pivotal factor for the company. These listings produces a lot of data. This data then can be analysed and can be utilized for business decisions, understanding of customers and hosts behaviour and performance on the platform, security purposes, finding market strategies and much more. Hence, one of the most important task for me is to clean, test and manipulate the Airbnb dataset for analysis and providing some of the best perceptions for Airbnb business.
+
+My Business Objective:
+
+1. Top 10 potential busiest Airbnb hosts.
+2. What are the most popular and favoured neighborhoods for Airbnb rentals in New York City?
+3. Understanding the factors that impacts Airbnb prices in New York City.
+4. Which Neighbourhood group has the maximum number of private rooms, shared rooms and entire home/ apartment?
+5. How do the ratings of Airbnb rentals in New York City compare to their prices? Are higher-priced rentals have higher ratings?
+6. Which location has the maximum number of private rooms, shared rooms and entire home/ apartment?
+7. Average price range.
+8. Which listing/property locations are best for travelers/hosts?
+9. Top cheapest and high priced listings.
+10. Correlating several variables in the dataset.
