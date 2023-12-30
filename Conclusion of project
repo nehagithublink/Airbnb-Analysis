@@ -1,0 +1,12 @@
+Through this exploratory data analysis and visualization project, we gained several interesting insights into the Airbnb rental market. 
+From the entire above analysis we can conclude that; the top 10 Potential Busiest Airbnb Hosts in Airbnb are Dona , Jj , Maya, Carol, Danielle, Asa, Wanda, Linda, Dani & Angela.
+The most popular and favoured neighborhood groups for Airbnb rentals in New York City are Manhattan, Brooklyn, Queens, Bronx & Staten Island
+We got to know that Harlem neighborhood in Manhattan has maximum number of listings with a count of total 2658.
+We found that most of the visitors don't prefer shared rooms but they tend to visit private room or entire home/apt. Also, we found that the neighbourhood group with the maximum number of private rooms is Brooklyn and the neighbourhood group with the maximum number of shared rooms and entire home/apartment is Manhattan.
+Manhattan and Brooklyn are the two distinguished, expensive & crowded areas of NY.
+We also calculated the average prices distribution of every neighbourhood groups.
+Also, we found the top 10 cheapest & top 10 high priced properties.
+Most people prefer to pay less price and mostly opt for cheaper rentals in the neighbourhood.
+If there are more number of reviews for a particular Neighbourhood group then that means that it is a best place for accomadation of visitors or tourists.
+We also found the correlation of Minimum nights, Number of reviews, Availabilty, Reviews per month & Calculated host listing count with Price.
+We also saw the relationships between pairs of variables in a dataset using a pairplot.
